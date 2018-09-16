@@ -1,6 +1,6 @@
 # os3ep 
 
-os3p stands for Operating System Three Easy Pieces. It is a free online
+os3p stands for Operating Systems: Three Easy Pieces. It is a free online
 operating systems book. The link to book is: http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 I created this simple python script to download the book which is in form of
@@ -18,7 +18,7 @@ It is simply gets the table where book content is placed. Parses the table and d
 
 ## Authors
 
-* **Cemal Kılıç**
+* Cemal Kılıç
 
 ## License
 

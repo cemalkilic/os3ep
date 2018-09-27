@@ -12,8 +12,9 @@ It is simply gets the table where book content is placed. Parses the table and d
 ## Installing
 
 * Clone the repo.
-* Set your virtual environment for python3.
-* Start by ```python3 o3ep.py```
+* Activate your virtual environment ```source path/to/virtualenv/bin/activate```
+* Install dependencies ```pip install -r requirements.txt```
+* Start by ```python o3ep.py```
 
 
 ## Authors
